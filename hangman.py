@@ -140,7 +140,7 @@ def hangMan():
   						  quit()
   						
   						else:
-  								print ("Great guess! Guess another!")
+  								print ("Great guess! Guess another..!")
 												
 hangMan()
 
